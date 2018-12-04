@@ -1,0 +1,1 @@
+call D:\IBM\WCDE80\wasprofile\bin\wsadmin.bat -lang jython -f cache-clear.jython localhost server1 all ./logs/cache-clearance.log

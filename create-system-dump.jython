@@ -1,0 +1,2 @@
+jvm = AdminControl.completeObjectName('type=JVM,process=server1,*')
+AdminControl.invoke(jvm, 'generateSystemDump')
